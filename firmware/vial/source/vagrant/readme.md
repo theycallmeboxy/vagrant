@@ -1,6 +1,6 @@
-# boxy/vagrant36
+# boxy/vagrant
 
-![boxy/vagrant36](imgur.com image replace me!)
+![boxy/vagrant](imgur.com image replace me!)
 
 *A short description of the keyboard/project*
 
@@ -10,7 +10,7 @@
 
 Make example for this keyboard (after setting up your build environment):
 
-    make boxy/vagrant36:default
+    make boxy/vagrant:default
 
 Flashing example for this keyboard:
 
